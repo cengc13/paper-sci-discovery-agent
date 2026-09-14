@@ -9,7 +9,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-09-07 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-09-14 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (by relevance)
 
@@ -17,6 +17,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Date | Venue | Code |
 | --- | --- | --- | --- |
+| [Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validati…](https://arxiv.org/abs/2609.11147) | 2026-09-10 | arXiv | [Code](https://github.com/JetAstra/Arche-Harness) |
 | [La Agente Óptima: Towards Agentic Self-Driving Laboratories](http://arxiv.org/abs/2609.04564v1) | 2026-09-03 | arXiv | [Code](https://github.com/the-matter-lab/La-Agente-Optima-artifacts) |
 | [Accelerating Scientific Research with Gemini in the Real-World](https://arxiv.org/abs/2608.26701) | 2026-08-27 | arXiv | [Code](https://github.com/QwenLM/Qwen3) |
 | [Large-language-model-driven adaptive search space definition for autonomous clos…](https://www.nature.com/articles/s43246-026-01304-9.pdf) | 2026-08-25 | Communications Materia… | - |
@@ -68,7 +69,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 | [AutoDFT: A Closed-Loop Multi-Agent Framework for Autonomous DFT Calculations](https://arxiv.org/abs/2605.26179) | 2026-05-25 | arXiv | [Code](https://github.com/shenvilab/autodft) |
 | [FlowPilot: A Multi-Agent AI System for Continuous Flow Chemistry Process Design](https://doi.org/10.26434/chemrxiv.15003445/v1) | 2026-05-18 | chemRxiv | [Code](https://github.com/6BNBN/FlowPilot) |
 | [Harnessing AtomisticSkills for Agentic Atomistic Research](https://arxiv.org/abs/2605.24002) | 2026-05-18 | arXiv | [Code](https://github.com/learningmatter-mit/AtomisticSkills) |
-| [Autonomous Chemistry and Materials Innovation Driven by Scientific Agents](https://doi.org/10.1021/jacsau.6c00213) | 2026-05-08 | JACS Au | - |
+| [Autonomous Chemistry and Materials Innovation Driven by Scientific Agents](https://doi.org/10.1021/jacsau.6c00213) | 2026-05-08 | JACS Au | [Code](https://github.com/memeera2000/Scientific-Discovery-Platform) |
 | [Autonomous Computational Catalysis Research via Agentic Systems](https://doi.org/10.26434/chemrxiv.15001654/v1) | 2026-04-06 | chemRxiv | [Code](https://github.com/q734738781/CatMaster) |
 | [ARES OS 2.0: An Orchestration Software Suite for Autonomous Experimentation Syst…](http://arxiv.org/abs/2604.03440v1) | 2026-04-03 | arXiv | [Code](https://github.com/AFRL-ARES/ARES/releases) |
 | [AP-Lab: An AI-Driven Autonomous Pilot-Scale Platform Bridging Materials Discover…](https://pubmed.ncbi.nlm.nih.gov/41677392/) | 2026-04-01 | Adv. Sci. | - |
@@ -88,11 +89,11 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Year | Venue | Citations |
 | --- | --- | --- | ---: |
-| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 595 |
-| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 341 |
-| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 252 |
+| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 625 |
+| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 354 |
+| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 259 |
 | [Large language model agents for biological intelligence across genomics, proteom…](https://doi.org/10.1093/bib/bbag110) | 2026 | Briefings in Bioinform… | 7 |
+| [Recent advances in data‐driven and artificial intelligence‐integrated perovskite…](https://doi.org/10.1002/inf2.70124) | 2026 | InfoMat | 5 |
 | [Agentic material science](https://doi.org/10.20517/jmi.2025.87) | 2026 | Journal of Materials I… | 7 |
-| [Bridging data and discovery: a survey on knowledge graphs in AI for science](https://doi.org/10.1093/nsr/nwag140) | 2026 | National Science Revie… | 6 |
 
 <!-- PAPERS_END -->
