@@ -9,7 +9,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-09-21 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-09-28 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (by relevance)
 
@@ -17,6 +17,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Date | Venue | Code |
 | --- | --- | --- | --- |
+| [Combining physical models with dynamically acquired experimental information for…](http://arxiv.org/abs/2609.29344v1) | 2026-09-24 | arXiv | - |
 | [Closing the Empirical Loop: Autonomous AI Agents Conduct End‐to‐end Research Wit…](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.76675) | 2026-09-14 | Advancement of science | - |
 | [Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validati…](https://arxiv.org/abs/2609.11147) | 2026-09-10 | arXiv | [Code](https://github.com/JetAstra/Arche-Harness) |
 | [La Agente Óptima: Towards Agentic Self-Driving Laboratories](http://arxiv.org/abs/2609.04564v1) | 2026-09-03 | arXiv | [Code](https://github.com/the-matter-lab/La-Agente-Optima-artifacts) |
@@ -90,11 +91,11 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Year | Venue | Citations |
 | --- | --- | --- | ---: |
-| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 639 |
-| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 361 |
-| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 262 |
+| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 642 |
+| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 362 |
+| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 265 |
 | [Large language model agents for biological intelligence across genomics, proteom…](https://doi.org/10.1093/bib/bbag110) | 2026 | Briefings in Bioinform… | 9 |
 | [Recent advances in data‐driven and artificial intelligence‐integrated perovskite…](https://doi.org/10.1002/inf2.70124) | 2026 | InfoMat | 6 |
-| [Agentic material science](https://doi.org/10.20517/jmi.2025.87) | 2026 | Journal of Materials I… | 8 |
+| [Agentic material science](https://doi.org/10.20517/jmi.2025.87) | 2026 | Journal of Materials I… | 9 |
 
 <!-- PAPERS_END -->
