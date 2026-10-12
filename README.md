@@ -9,7 +9,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 <!-- PAPERS_START -->
 
-*Auto-updated 2026-10-05 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
+*Auto-updated 2026-10-12 · Sources: arXiv · Semantic Scholar · chemRxiv · OpenReview (ICLR/NeurIPS/ICML)*
 
 ### Top Papers (by relevance)
 
@@ -17,6 +17,7 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Date | Venue | Code |
 | --- | --- | --- | --- |
+| [From Benchmark to Bench: Can Agents Survive Real-World Drug Discovery?](https://doi.org/10.64898/2026.09.30.755603) | 2026-10-05 | bioRxiv | - |
 | [Self-driving laboratories for sustainable materials discovery: Autonomous experi…](https://doi.org/10.1016/j.nxmate.2026.103218) | 2026-10-01 | Next Materials | - |
 | [Combining physical models with dynamically acquired experimental information for…](http://arxiv.org/abs/2609.29344v1) | 2026-09-24 | arXiv | - |
 | [Closing the Empirical Loop: Autonomous AI Agents Conduct End‐to‐end Research Wit…](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.76675) | 2026-09-14 | Advancement of science | - |
@@ -63,6 +64,9 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 | [Self-driving laboratory for accelerated discovery of thin-film materials](https://advances.sciencemag.org/content/advances/6/20/eaaz8867.full.pdf) | 2019-06-12 | Sci. Adv. | - |
 | [Autonomy in materials research: a case study in carbon nanotube growth](https://www.nature.com/articles/npjcompumats201631.pdf) | 2016-10-21 | — | - |
 | [Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Mat…](https://arxiv.org/abs/2605.18033) | 2026-05-18 | arXiv | - |
+| [Scalable Thermoset
+Informatics Integrated with Autonomous
+Experimentation for On…](https://doi.org/10.1021/acs.chemmater.6c01600) | 2026-10-09 | Chemistry of Materials | - |
 | [AIMS: An uncertainty-aware AI experimentalist for quantum matter](https://arxiv.org/abs/2607.16544) | 2026-07-17 | arXiv | - |
 | [A Modular and Affordable Self-Driving Laboratory for Vision-Guided Optimization …](https://doi.org/10.1021/acsami.6c08121) | 2026-06-30 | ACS Applied Materials … | - |
 | [Latent mechanism mapping in self-driving molecular electrocatalysis](https://doi.org/10.26434/chemrxiv.15005417/v1) | 2026-06-29 | chemRxiv | - |
@@ -92,11 +96,11 @@ Relevance scoring, classification (article vs. review), on-topic filtering, and 
 
 | Title | Year | Venue | Citations |
 | --- | --- | --- | ---: |
-| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 651 |
-| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 369 |
-| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 274 |
-| [Large language model agents for biological intelligence across genomics, proteom…](https://doi.org/10.1093/bib/bbag110) | 2026 | Briefings in Bioinform… | 10 |
-| [Recent advances in data‐driven and artificial intelligence‐integrated perovskite…](https://doi.org/10.1002/inf2.70124) | 2026 | InfoMat | 7 |
+| [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00055) | 2024 | Chem. Rev. | 669 |
+| [Next-Generation Experimentation with Self-Driving Laboratories](https://doi.org/10.1016/J.TRECHM.2019.02.007) | 2019 | Trends in Chemistry | 372 |
+| [A review of large language models and autonomous agents in chemistry](https://arxiv.org/abs/2407.01603) | 2024 | Chem. Sci. | 279 |
+| [Large language model agents for biological intelligence across genomics, proteom…](https://doi.org/10.1093/bib/bbag110) | 2026 | Briefings in Bioinform… | 12 |
+| [Recent advances in data‐driven and artificial intelligence‐integrated perovskite…](https://doi.org/10.1002/inf2.70124) | 2026 | InfoMat | 8 |
 | [Agentic material science](https://doi.org/10.20517/jmi.2025.87) | 2026 | Journal of Materials I… | 10 |
 
 <!-- PAPERS_END -->
